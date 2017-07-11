@@ -1,0 +1,14 @@
+uuid: 9b8acd5f-961a-47b0-a072-c52c8c4a7c08
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - jonathan@gollygoodsoftware.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
